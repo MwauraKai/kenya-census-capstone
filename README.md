@@ -1,6 +1,6 @@
 # Kenya Census Capstone Project 🇰🇪
 
-This capstone project uses data from Kenya’s 2019 Population and Housing Census to uncover regional inequalities in service delivery. Through structured SQL analysis and visualizations, we aim to identify underserved counties and support smarter, more equitable development decisions in Kenya.
+This capstone project uses data from Kenya’s 2019 Population and Housing Census to uncover regional inequalities in service delivery. Through structured SQL analysis and visualizations, I aim to identify underserved counties and support smarter, more equitable development decisions in Kenya.
 
 ---
 
@@ -25,23 +25,38 @@ Data was sourced from [TidyTuesday (2021-01-19)](https://github.com/rfordatascie
 
 ---
 
-## 🧱 SQL Database Design
+## 🧱 Database Schema (ERD)
 
-The data was normalized and modeled into relational tables using MySQL. Each table was populated with sample data to simulate relationships and perform meaningful queries.
+![Kenya Census ERD](./images/Kenya%20Census%20ER.drawio.png)
 
-📸 *Entity Relationship Diagram (ERD) and schema details available in the `/images` folder.*
+## 🔧 Workflow & SQL Queries
 
----
+I executed the following steps myself to ensure data integrity and reproducibility:
 
-## 🧠 SQL Queries
+1. **Data Reshaping (Excel → Power Query)**
+   - Unpivoted `gender.csv` to long form (`gender_reshaped.csv`).
+   - Unpivoted `crops.csv` (including “Farming”) to `crops_reshaped.csv`.
 
-Using MySQL Workbench, we explored:
-- Total population by gender per county
-- Regions with poor housing infrastructure
-- Agricultural diversity and food security risks
-- Correlation between population density and household conditions
+2. **Database Schema & Tables (MySQL)**
+   - Designed four tables: `counties`, `population`, `household_stats`, `crops`.
+   - Created staging tables for each dataset to load raw CSVs without FK constraints.
 
-All SQL queries and table scripts can be found in the `/sql` folder.
+3. **Data Import & Cleaning**
+   - Imported reshaped CSVs into staging tables via the MySQL Import Wizard.
+   - Detected and corrected county naming mismatches (`Taita/Taveta` → `Taita Taveta`, etc.) using trimmed, case-insensitive `UPDATE`s.
+   - Removed aggregate “Total” rows (e.g. `Kenya`) before loading.
+
+4. **Final Data Loading**
+   - Populated final tables using `INSERT … SELECT` with `JOIN` on `counties` to map names → `county_id`.
+   - Verified record counts matched expectations (141 population rows, N household rows, M crop rows).
+
+5. **Views Creation**
+   - **`v_population_by_gender`**: Summarizes population by gender per county.
+   - **`v_household_stats`**: Exposes total population, household count, and average household size per county.
+   - **`v_crops_by_county`**: Aggregates households per crop type (including “Farming”) per county.
+
+All DDL, DML, and view definitions can be found in the `/sql` folder:
+
 
 ---
 
