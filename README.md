@@ -25,8 +25,8 @@ By integrating these indicators, I can reveal service “hot‑spots” and “c
 
 Data was sourced from [TidyTuesday (2021-01-19)](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-19) and curated from the [rKenyaCensus package](https://github.com/Shelmith-Kariuki/rKenyaCensus).
 
-| Dataset                |Description                                                                    |
---------------------------------------------------------------------------------|
+| Dataset                | Description                                                                    |
+|------------------------|--------------------------------------------------------------------------------|
 | `gender_reshaped.csv`  | County‑level population counts broken down by gender (Male, Female, Intersex)  |
 | `households.csv`       | County‑level household metrics: total population, number of households, and average household size |
 | `crops_reshaped.csv`   | County‑level household participation in specific crops (Tea, Coffee, Avocado, etc.) and overall farming engagement |
