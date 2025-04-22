@@ -56,7 +56,7 @@ I executed the following steps myself to ensure data integrity and reproducibili
 
 4. **Final Data Loading**
    - Populated final tables using `INSERT … SELECT` with `JOIN` on `counties` to map names → `county_id`.
-   - Verified record counts matched expectations (141 population rows, N household rows, M crop rows).
+   - Verified record counts matched expectations .
 
 ## 🛠️ 5. Views Creation
 
