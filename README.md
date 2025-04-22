@@ -50,10 +50,32 @@ I executed the following steps myself to ensure data integrity and reproducibili
    - Populated final tables using `INSERT … SELECT` with `JOIN` on `counties` to map names → `county_id`.
    - Verified record counts matched expectations (141 population rows, N household rows, M crop rows).
 
-5. **Views Creation**
-   - **`v_population_by_gender`**: Summarizes population by gender per county.
-   - **`v_household_stats`**: Exposes total population, household count, and average household size per county.
-   - **`v_crops_by_county`**: Aggregates households per crop type (including “Farming”) per county.
+## 🛠️ 5. Views Creation
+
+- **`v_population_by_gender`**  
+  Summarizes population by gender for each county by joining `population` and `counties` and aggregating total counts.
+
+- **`v_household_stats`**  
+  Exposes key household metrics—total population, number of households, and average household size—by county.
+
+- **`v_crops_by_county`**  
+  Aggregates household counts for each crop type (including “Farming”) by county, enabling analysis of crop prevalence and farming participation.
+
+- **`v_pop_per_household`**  
+  Calculates the average number of persons per household in each county by dividing `population_total` by `number_of_households` and rounding to two decimals.
+
+- **`v_farming_participation`**  
+  Shows the number and percentage of households engaged in farming per county by comparing the “Farming” crop count against total households.
+
+- **`v_crop_diversity`**  
+  Counts the number of distinct crops grown per county (excluding “Farming” and zero‑count crops) to measure agricultural diversity.
+
+- **`v_gender_ratio`**  
+  Computes the female‑to‑male population ratio for each county by summing gendered populations and rounding to two decimals.
+
+- **`v_primary_crop`**  
+  Identifies the single most‑widely grown specific crop per county (excluding “Farming” and zero‑count crops) using a row‑number ranking.
+
 
 All DDL, DML, and view definitions can be found in the `/sql` folder:
 
