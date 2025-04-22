@@ -1,0 +1,471 @@
+crop_id,county_id,crop_name,crop_count
+1,1,Farming,12497
+2,1,Tea,0
+3,1,Coffee,0
+4,1,Avocado,0
+5,1,Citrus,0
+6,1,Mango,0
+7,1,Coconut,1688
+8,1,Macadamia,0
+9,1,"Cashew Nut",602
+10,1,"Khat (Miraa)",0
+11,2,Farming,108074
+12,2,Tea,0
+13,2,Coffee,0
+14,2,Avocado,1063
+15,2,Citrus,10053
+16,2,Mango,30272
+17,2,Coconut,31954
+18,2,Macadamia,881
+19,2,"Cashew Nut",22803
+20,2,"Khat (Miraa)",0
+21,3,Farming,161188
+22,3,Tea,0
+23,3,Coffee,0
+24,3,Avocado,0
+25,3,Citrus,6808
+26,3,Mango,37519
+27,3,Coconut,47561
+28,3,Macadamia,0
+29,3,"Cashew Nut",27940
+30,3,"Khat (Miraa)",0
+31,4,Farming,35094
+32,4,Tea,0
+33,4,Coffee,0
+34,4,Avocado,0
+35,4,Citrus,1109
+36,4,Mango,6561
+37,4,Coconut,2228
+38,4,Macadamia,0
+39,4,"Cashew Nut",1691
+40,4,"Khat (Miraa)",0
+41,5,Farming,18678
+42,5,Tea,0
+43,5,Coffee,0
+44,5,Avocado,0
+45,5,Citrus,2742
+46,5,Mango,7423
+47,5,Coconut,5017
+48,5,Macadamia,189
+49,5,"Cashew Nut",8085
+50,5,"Khat (Miraa)",0
+51,6,Farming,56920
+52,6,Tea,0
+53,6,Coffee,0
+54,6,Avocado,7963
+55,6,Citrus,3284
+56,6,Mango,7171
+57,6,Coconut,2504
+58,6,Macadamia,3650
+59,6,"Cashew Nut",543
+60,6,"Khat (Miraa)",0
+61,7,Farming,47645
+62,7,Tea,0
+63,7,Coffee,0
+64,7,Avocado,0
+65,7,Citrus,0
+66,7,Mango,1726
+67,7,Coconut,0
+68,7,Macadamia,0
+69,7,"Cashew Nut",0
+70,7,"Khat (Miraa)",0
+71,8,Farming,63433
+72,8,Tea,0
+73,8,Coffee,0
+74,8,Avocado,0
+75,8,Citrus,0
+76,8,Mango,0
+77,8,Coconut,0
+78,8,Macadamia,0
+79,8,"Cashew Nut",0
+80,8,"Khat (Miraa)",0
+81,9,Farming,62639
+82,9,Tea,0
+83,9,Coffee,0
+84,9,Avocado,0
+85,9,Citrus,0
+86,9,Mango,2685
+87,9,Coconut,0
+88,9,Macadamia,0
+89,9,"Cashew Nut",0
+90,9,"Khat (Miraa)",0
+91,10,Farming,39167
+92,10,Tea,0
+93,10,Coffee,0
+94,10,Avocado,0
+95,10,Citrus,0
+96,10,Mango,0
+97,10,Coconut,0
+98,10,Macadamia,0
+99,10,"Cashew Nut",0
+100,10,"Khat (Miraa)",0
+101,11,Farming,24271
+102,11,Tea,0
+103,11,Coffee,0
+104,11,Avocado,0
+105,11,Citrus,0
+106,11,Mango,0
+107,11,Coconut,0
+108,11,Macadamia,0
+109,11,"Cashew Nut",0
+110,11,"Khat (Miraa)",0
+111,12,Farming,274865
+112,12,Tea,30404
+113,12,Coffee,28195
+114,12,Avocado,41746
+115,12,Citrus,6255
+116,12,Mango,27457
+117,12,Coconut,0
+118,12,Macadamia,29545
+119,12,"Cashew Nut",0
+120,12,"Khat (Miraa)",85023
+121,13,Farming,85767
+122,13,Tea,7227
+123,13,Coffee,15792
+124,13,Avocado,13171
+125,13,Citrus,1630
+126,13,Mango,14102
+127,13,Coconut,0
+128,13,Macadamia,9280
+129,13,"Cashew Nut",0
+130,13,"Khat (Miraa)",8404
+131,14,Farming,130990
+132,14,Tea,18664
+133,14,Coffee,28996
+134,14,Avocado,19355
+135,14,Citrus,3581
+136,14,Mango,26771
+137,14,Coconut,0
+138,14,Macadamia,27488
+139,14,"Cashew Nut",0
+140,14,"Khat (Miraa)",34900
+141,15,Farming,215322
+142,15,Tea,0
+143,15,Coffee,0
+144,15,Avocado,12066
+145,15,Citrus,7510
+146,15,Mango,35471
+147,15,Coconut,0
+148,15,Macadamia,0
+149,15,"Cashew Nut",0
+150,15,"Khat (Miraa)",0
+151,16,Farming,231341
+152,16,Tea,0
+153,16,Coffee,23525
+154,16,Avocado,45243
+155,16,Citrus,22797
+156,16,Mango,75504
+157,16,Coconut,0
+158,16,Macadamia,6519
+159,16,"Cashew Nut",0
+160,16,"Khat (Miraa)",0
+161,17,Farming,193531
+162,17,Tea,0
+163,17,Coffee,3371
+164,17,Avocado,34107
+165,17,Citrus,27006
+166,17,Mango,70130
+167,17,Coconut,0
+168,17,Macadamia,4293
+169,17,"Cashew Nut",0
+170,17,"Khat (Miraa)",0
+171,18,Farming,140854
+172,18,Tea,0
+173,18,Coffee,0
+174,18,Avocado,2892
+175,18,Citrus,1580
+176,18,Mango,0
+177,18,Coconut,0
+178,18,Macadamia,0
+179,18,"Cashew Nut",0
+180,18,"Khat (Miraa)",0
+181,19,Farming,164229
+182,19,Tea,23300
+183,19,Coffee,57983
+184,19,Avocado,22810
+185,19,Citrus,2521
+186,19,Mango,10228
+187,19,Coconut,0
+188,19,Macadamia,25436
+189,19,"Cashew Nut",0
+190,19,"Khat (Miraa)",0
+191,20,Farming,139866
+192,20,Tea,25135
+193,20,Coffee,47835
+194,20,Avocado,19691
+195,20,Citrus,2429
+196,20,Mango,15311
+197,20,Coconut,0
+198,20,Macadamia,28508
+199,20,"Cashew Nut",0
+200,20,"Khat (Miraa)",5821
+201,21,Farming,231400
+202,21,Tea,43819
+203,21,Coffee,64533
+204,21,Avocado,52839
+205,21,Citrus,7210
+206,21,Mango,38361
+207,21,Coconut,0
+208,21,Macadamia,35618
+209,21,"Cashew Nut",0
+210,21,"Khat (Miraa)",0
+211,22,Farming,214052
+212,22,Tea,20958
+213,22,Coffee,31152
+214,22,Avocado,31392
+215,22,Citrus,2160
+216,22,Mango,9855
+217,22,Coconut,0
+218,22,Macadamia,11748
+219,22,"Cashew Nut",0
+220,22,"Khat (Miraa)",0
+221,23,Farming,61209
+222,23,Tea,0
+223,23,Coffee,0
+224,23,Avocado,0
+225,23,Citrus,0
+226,23,Mango,0
+227,23,Coconut,0
+228,23,Macadamia,0
+229,23,"Cashew Nut",0
+230,23,"Khat (Miraa)",0
+231,24,Farming,89828
+232,24,Tea,0
+233,24,Coffee,1026
+234,24,Avocado,7535
+235,24,Citrus,1173
+236,24,Mango,4426
+237,24,Coconut,0
+238,24,Macadamia,0
+239,24,"Cashew Nut",0
+240,24,"Khat (Miraa)",0
+241,25,Farming,43149
+242,25,Tea,0
+243,25,Coffee,0
+244,25,Avocado,0
+245,25,Citrus,0
+246,25,Mango,0
+247,25,Coconut,0
+248,25,Macadamia,0
+249,25,"Cashew Nut",0
+250,25,"Khat (Miraa)",0
+251,26,Farming,140249
+252,26,Tea,2780
+253,26,Coffee,4089
+254,26,Avocado,26594
+255,26,Citrus,1987
+256,26,Mango,6721
+257,26,Coconut,0
+258,26,Macadamia,0
+259,26,"Cashew Nut",0
+260,26,"Khat (Miraa)",0
+261,27,Farming,141547
+262,27,Tea,0
+263,27,Coffee,0
+264,27,Avocado,8430
+265,27,Citrus,1376
+266,27,Mango,2505
+267,27,Coconut,0
+268,27,Macadamia,0
+269,27,"Cashew Nut",0
+270,27,"Khat (Miraa)",0
+271,28,Farming,74881
+272,28,Tea,751
+273,28,Coffee,1390
+274,28,Avocado,5224
+275,28,Citrus,1632
+276,28,Mango,6430
+277,28,Coconut,0
+278,28,Macadamia,518
+279,28,"Cashew Nut",0
+280,28,"Khat (Miraa)",0
+281,29,Farming,148887
+282,29,Tea,37564
+283,29,Coffee,11044
+284,29,Avocado,29356
+285,29,Citrus,1202
+286,29,Mango,5806
+287,29,Coconut,0
+288,29,Macadamia,0
+289,29,"Cashew Nut",0
+290,29,"Khat (Miraa)",0
+291,30,Farming,100465
+292,30,Tea,0
+293,30,Coffee,3069
+294,30,Avocado,12372
+295,30,Citrus,2605
+296,30,Mango,10600
+297,30,Coconut,0
+298,30,Macadamia,1673
+299,30,"Cashew Nut",0
+300,30,"Khat (Miraa)",0
+301,31,Farming,90729
+302,31,Tea,0
+303,31,Coffee,0
+304,31,Avocado,5273
+305,31,Citrus,2121
+306,31,Mango,2103
+307,31,Coconut,0
+308,31,Macadamia,773
+309,31,"Cashew Nut",0
+310,31,"Khat (Miraa)",0
+311,32,Farming,283652
+312,32,Tea,10041
+313,32,Coffee,0
+314,32,Avocado,20209
+315,32,Citrus,4332
+316,32,Mango,6560
+317,32,Coconut,0
+318,32,Macadamia,0
+319,32,"Cashew Nut",0
+320,32,"Khat (Miraa)",0
+321,33,Farming,181706
+322,33,Tea,0
+323,33,Coffee,0
+324,33,Avocado,13430
+325,33,Citrus,1784
+326,33,Mango,2332
+327,33,Coconut,0
+328,33,Macadamia,0
+329,33,"Cashew Nut",0
+330,33,"Khat (Miraa)",0
+331,34,Farming,97565
+332,34,Tea,0
+333,34,Coffee,0
+334,34,Avocado,2994
+335,34,Citrus,0
+336,34,Mango,2776
+337,34,Coconut,0
+338,34,Macadamia,0
+339,34,"Cashew Nut",0
+340,34,"Khat (Miraa)",0
+341,35,Farming,150845
+342,35,Tea,55837
+343,35,Coffee,24774
+344,35,Avocado,40748
+345,35,Citrus,2283
+346,35,Mango,5588
+347,35,Coconut,0
+348,35,Macadamia,0
+349,35,"Cashew Nut",0
+350,35,"Khat (Miraa)",0
+351,36,Farming,152564
+352,36,Tea,50704
+353,36,Coffee,1940
+354,36,Avocado,44903
+355,36,Citrus,3298
+356,36,Mango,3679
+357,36,Coconut,0
+358,36,Macadamia,0
+359,36,"Cashew Nut",0
+360,36,"Khat (Miraa)",0
+361,37,Farming,335269
+362,37,Tea,4644
+363,37,Coffee,2990
+364,37,Avocado,63886
+365,37,Citrus,4435
+366,37,Mango,49075
+367,37,Coconut,0
+368,37,Macadamia,2292
+369,37,"Cashew Nut",0
+370,37,"Khat (Miraa)",0
+371,38,Farming,113753
+372,38,Tea,11273
+373,38,Coffee,1717
+374,38,Avocado,34321
+375,38,Citrus,1233
+376,38,Mango,26209
+377,38,Coconut,0
+378,38,Macadamia,0
+379,38,"Cashew Nut",0
+380,38,"Khat (Miraa)",0
+381,39,Farming,280445
+382,39,Tea,2047
+383,39,Coffee,37773
+384,39,Avocado,73765
+385,39,Citrus,5268
+386,39,Mango,54581
+387,39,Coconut,0
+388,39,Macadamia,2428
+389,39,"Cashew Nut",0
+390,39,"Khat (Miraa)",0
+391,40,Farming,148257
+392,40,Tea,0
+393,40,Coffee,1498
+394,40,Avocado,27498
+395,40,Citrus,3616
+396,40,Mango,35530
+397,40,Coconut,0
+398,40,Macadamia,1148
+399,40,"Cashew Nut",0
+400,40,"Khat (Miraa)",0
+401,41,Farming,194362
+402,41,Tea,0
+403,41,Coffee,0
+404,41,Avocado,31729
+405,41,Citrus,7350
+406,41,Mango,44660
+407,41,Coconut,0
+408,41,Macadamia,1262
+409,41,"Cashew Nut",0
+410,41,"Khat (Miraa)",0
+411,42,Farming,147117
+412,42,Tea,0
+413,42,Coffee,0
+414,42,Avocado,19478
+415,42,Citrus,5265
+416,42,Mango,28305
+417,42,Coconut,0
+418,42,Macadamia,0
+419,42,"Cashew Nut",0
+420,42,"Khat (Miraa)",0
+421,43,Farming,193812
+422,43,Tea,1365
+423,43,Coffee,2864
+424,43,Avocado,29880
+425,43,Citrus,7496
+426,43,Mango,34557
+427,43,Coconut,0
+428,43,Macadamia,1554
+429,43,"Cashew Nut",0
+430,43,"Khat (Miraa)",0
+431,44,Farming,169958
+432,44,Tea,0
+433,44,Coffee,3864
+434,44,Avocado,33338
+435,44,Citrus,4444
+436,44,Mango,27231
+437,44,Coconut,0
+438,44,Macadamia,1196
+439,44,"Cashew Nut",0
+440,44,"Khat (Miraa)",0
+441,45,Farming,219853
+442,45,Tea,67394
+443,45,Coffee,53580
+444,45,Avocado,88326
+445,45,Citrus,3850
+446,45,Mango,17144
+447,45,Coconut,0
+448,45,Macadamia,0
+449,45,"Cashew Nut",0
+450,45,"Khat (Miraa)",0
+451,46,Farming,110028
+452,46,Tea,62706
+453,46,Coffee,25936
+454,46,Avocado,43349
+455,46,Citrus,2020
+456,46,Mango,3502
+457,46,Coconut,0
+458,46,Macadamia,0
+459,46,"Cashew Nut",0
+460,46,"Khat (Miraa)",0
+461,47,Farming,32258
+462,47,Tea,0
+463,47,Coffee,0
+464,47,Avocado,0
+465,47,Citrus,0
+466,47,Mango,0
+467,47,Coconut,0
+468,47,Macadamia,0
+469,47,"Cashew Nut",0
+470,47,"Khat (Miraa)",0
