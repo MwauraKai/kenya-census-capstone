@@ -1,471 +1,192 @@
 county_name,crop_name,total_households
-Mombasa,Farming,12497
-Mombasa,Tea,0
-Mombasa,Coffee,0
-Mombasa,Avocado,0
-Mombasa,Citrus,0
-Mombasa,Mango,0
 Mombasa,Coconut,1688
-Mombasa,Macadamia,0
 Mombasa,"Cashew Nut",602
-Mombasa,"Khat (Miraa)",0
-Kwale,Farming,108074
-Kwale,Tea,0
-Kwale,Coffee,0
 Kwale,Avocado,1063
 Kwale,Citrus,10053
 Kwale,Mango,30272
 Kwale,Coconut,31954
 Kwale,Macadamia,881
 Kwale,"Cashew Nut",22803
-Kwale,"Khat (Miraa)",0
-Kilifi,Farming,161188
-Kilifi,Tea,0
-Kilifi,Coffee,0
-Kilifi,Avocado,0
 Kilifi,Citrus,6808
 Kilifi,Mango,37519
 Kilifi,Coconut,47561
-Kilifi,Macadamia,0
 Kilifi,"Cashew Nut",27940
-Kilifi,"Khat (Miraa)",0
-"Tana River",Farming,35094
-"Tana River",Tea,0
-"Tana River",Coffee,0
-"Tana River",Avocado,0
 "Tana River",Citrus,1109
 "Tana River",Mango,6561
 "Tana River",Coconut,2228
-"Tana River",Macadamia,0
 "Tana River","Cashew Nut",1691
-"Tana River","Khat (Miraa)",0
-Lamu,Farming,18678
-Lamu,Tea,0
-Lamu,Coffee,0
-Lamu,Avocado,0
 Lamu,Citrus,2742
 Lamu,Mango,7423
 Lamu,Coconut,5017
 Lamu,Macadamia,189
 Lamu,"Cashew Nut",8085
-Lamu,"Khat (Miraa)",0
-"Taita Taveta",Farming,56920
-"Taita Taveta",Tea,0
-"Taita Taveta",Coffee,0
 "Taita Taveta",Avocado,7963
 "Taita Taveta",Citrus,3284
 "Taita Taveta",Mango,7171
 "Taita Taveta",Coconut,2504
 "Taita Taveta",Macadamia,3650
 "Taita Taveta","Cashew Nut",543
-"Taita Taveta","Khat (Miraa)",0
-Garissa,Farming,47645
-Garissa,Tea,0
-Garissa,Coffee,0
-Garissa,Avocado,0
-Garissa,Citrus,0
 Garissa,Mango,1726
-Garissa,Coconut,0
-Garissa,Macadamia,0
-Garissa,"Cashew Nut",0
-Garissa,"Khat (Miraa)",0
-Wajir,Farming,63433
-Wajir,Tea,0
-Wajir,Coffee,0
-Wajir,Avocado,0
-Wajir,Citrus,0
-Wajir,Mango,0
-Wajir,Coconut,0
-Wajir,Macadamia,0
-Wajir,"Cashew Nut",0
-Wajir,"Khat (Miraa)",0
-Mandera,Farming,62639
-Mandera,Tea,0
-Mandera,Coffee,0
-Mandera,Avocado,0
-Mandera,Citrus,0
 Mandera,Mango,2685
-Mandera,Coconut,0
-Mandera,Macadamia,0
-Mandera,"Cashew Nut",0
-Mandera,"Khat (Miraa)",0
-Marsabit,Farming,39167
-Marsabit,Tea,0
-Marsabit,Coffee,0
-Marsabit,Avocado,0
-Marsabit,Citrus,0
-Marsabit,Mango,0
-Marsabit,Coconut,0
-Marsabit,Macadamia,0
-Marsabit,"Cashew Nut",0
-Marsabit,"Khat (Miraa)",0
-Isiolo,Farming,24271
-Isiolo,Tea,0
-Isiolo,Coffee,0
-Isiolo,Avocado,0
-Isiolo,Citrus,0
-Isiolo,Mango,0
-Isiolo,Coconut,0
-Isiolo,Macadamia,0
-Isiolo,"Cashew Nut",0
-Isiolo,"Khat (Miraa)",0
-Meru,Farming,274865
 Meru,Tea,30404
 Meru,Coffee,28195
 Meru,Avocado,41746
 Meru,Citrus,6255
 Meru,Mango,27457
-Meru,Coconut,0
 Meru,Macadamia,29545
-Meru,"Cashew Nut",0
 Meru,"Khat (Miraa)",85023
-Tharaka‑Nithi,Farming,85767
 Tharaka‑Nithi,Tea,7227
 Tharaka‑Nithi,Coffee,15792
 Tharaka‑Nithi,Avocado,13171
 Tharaka‑Nithi,Citrus,1630
 Tharaka‑Nithi,Mango,14102
-Tharaka‑Nithi,Coconut,0
 Tharaka‑Nithi,Macadamia,9280
-Tharaka‑Nithi,"Cashew Nut",0
 Tharaka‑Nithi,"Khat (Miraa)",8404
-Embu,Farming,130990
 Embu,Tea,18664
 Embu,Coffee,28996
 Embu,Avocado,19355
 Embu,Citrus,3581
 Embu,Mango,26771
-Embu,Coconut,0
 Embu,Macadamia,27488
-Embu,"Cashew Nut",0
 Embu,"Khat (Miraa)",34900
-Kitui,Farming,215322
-Kitui,Tea,0
-Kitui,Coffee,0
 Kitui,Avocado,12066
 Kitui,Citrus,7510
 Kitui,Mango,35471
-Kitui,Coconut,0
-Kitui,Macadamia,0
-Kitui,"Cashew Nut",0
-Kitui,"Khat (Miraa)",0
-Machakos,Farming,231341
-Machakos,Tea,0
 Machakos,Coffee,23525
 Machakos,Avocado,45243
 Machakos,Citrus,22797
 Machakos,Mango,75504
-Machakos,Coconut,0
 Machakos,Macadamia,6519
-Machakos,"Cashew Nut",0
-Machakos,"Khat (Miraa)",0
-Makueni,Farming,193531
-Makueni,Tea,0
 Makueni,Coffee,3371
 Makueni,Avocado,34107
 Makueni,Citrus,27006
 Makueni,Mango,70130
-Makueni,Coconut,0
 Makueni,Macadamia,4293
-Makueni,"Cashew Nut",0
-Makueni,"Khat (Miraa)",0
-Nyandarua,Farming,140854
-Nyandarua,Tea,0
-Nyandarua,Coffee,0
 Nyandarua,Avocado,2892
 Nyandarua,Citrus,1580
-Nyandarua,Mango,0
-Nyandarua,Coconut,0
-Nyandarua,Macadamia,0
-Nyandarua,"Cashew Nut",0
-Nyandarua,"Khat (Miraa)",0
-Nyeri,Farming,164229
 Nyeri,Tea,23300
 Nyeri,Coffee,57983
 Nyeri,Avocado,22810
 Nyeri,Citrus,2521
 Nyeri,Mango,10228
-Nyeri,Coconut,0
 Nyeri,Macadamia,25436
-Nyeri,"Cashew Nut",0
-Nyeri,"Khat (Miraa)",0
-Kirinyaga,Farming,139866
 Kirinyaga,Tea,25135
 Kirinyaga,Coffee,47835
 Kirinyaga,Avocado,19691
 Kirinyaga,Citrus,2429
 Kirinyaga,Mango,15311
-Kirinyaga,Coconut,0
 Kirinyaga,Macadamia,28508
-Kirinyaga,"Cashew Nut",0
 Kirinyaga,"Khat (Miraa)",5821
-Murang'a,Farming,231400
 Murang'a,Tea,43819
 Murang'a,Coffee,64533
 Murang'a,Avocado,52839
 Murang'a,Citrus,7210
 Murang'a,Mango,38361
-Murang'a,Coconut,0
 Murang'a,Macadamia,35618
-Murang'a,"Cashew Nut",0
-Murang'a,"Khat (Miraa)",0
-Kiambu,Farming,214052
 Kiambu,Tea,20958
 Kiambu,Coffee,31152
 Kiambu,Avocado,31392
 Kiambu,Citrus,2160
 Kiambu,Mango,9855
-Kiambu,Coconut,0
 Kiambu,Macadamia,11748
-Kiambu,"Cashew Nut",0
-Kiambu,"Khat (Miraa)",0
-Turkana,Farming,61209
-Turkana,Tea,0
-Turkana,Coffee,0
-Turkana,Avocado,0
-Turkana,Citrus,0
-Turkana,Mango,0
-Turkana,Coconut,0
-Turkana,Macadamia,0
-Turkana,"Cashew Nut",0
-Turkana,"Khat (Miraa)",0
-"West Pokot",Farming,89828
-"West Pokot",Tea,0
 "West Pokot",Coffee,1026
 "West Pokot",Avocado,7535
 "West Pokot",Citrus,1173
 "West Pokot",Mango,4426
-"West Pokot",Coconut,0
-"West Pokot",Macadamia,0
-"West Pokot","Cashew Nut",0
-"West Pokot","Khat (Miraa)",0
-Samburu,Farming,43149
-Samburu,Tea,0
-Samburu,Coffee,0
-Samburu,Avocado,0
-Samburu,Citrus,0
-Samburu,Mango,0
-Samburu,Coconut,0
-Samburu,Macadamia,0
-Samburu,"Cashew Nut",0
-Samburu,"Khat (Miraa)",0
-"Trans Nzoia",Farming,140249
 "Trans Nzoia",Tea,2780
 "Trans Nzoia",Coffee,4089
 "Trans Nzoia",Avocado,26594
 "Trans Nzoia",Citrus,1987
 "Trans Nzoia",Mango,6721
-"Trans Nzoia",Coconut,0
-"Trans Nzoia",Macadamia,0
-"Trans Nzoia","Cashew Nut",0
-"Trans Nzoia","Khat (Miraa)",0
-"Uasin Gishu",Farming,141547
-"Uasin Gishu",Tea,0
-"Uasin Gishu",Coffee,0
 "Uasin Gishu",Avocado,8430
 "Uasin Gishu",Citrus,1376
 "Uasin Gishu",Mango,2505
-"Uasin Gishu",Coconut,0
-"Uasin Gishu",Macadamia,0
-"Uasin Gishu","Cashew Nut",0
-"Uasin Gishu","Khat (Miraa)",0
-Elgeyo/Marakwet,Farming,74881
 Elgeyo/Marakwet,Tea,751
 Elgeyo/Marakwet,Coffee,1390
 Elgeyo/Marakwet,Avocado,5224
 Elgeyo/Marakwet,Citrus,1632
 Elgeyo/Marakwet,Mango,6430
-Elgeyo/Marakwet,Coconut,0
 Elgeyo/Marakwet,Macadamia,518
-Elgeyo/Marakwet,"Cashew Nut",0
-Elgeyo/Marakwet,"Khat (Miraa)",0
-Nandi,Farming,148887
 Nandi,Tea,37564
 Nandi,Coffee,11044
 Nandi,Avocado,29356
 Nandi,Citrus,1202
 Nandi,Mango,5806
-Nandi,Coconut,0
-Nandi,Macadamia,0
-Nandi,"Cashew Nut",0
-Nandi,"Khat (Miraa)",0
-Baringo,Farming,100465
-Baringo,Tea,0
 Baringo,Coffee,3069
 Baringo,Avocado,12372
 Baringo,Citrus,2605
 Baringo,Mango,10600
-Baringo,Coconut,0
 Baringo,Macadamia,1673
-Baringo,"Cashew Nut",0
-Baringo,"Khat (Miraa)",0
-Laikipia,Farming,90729
-Laikipia,Tea,0
-Laikipia,Coffee,0
 Laikipia,Avocado,5273
 Laikipia,Citrus,2121
 Laikipia,Mango,2103
-Laikipia,Coconut,0
 Laikipia,Macadamia,773
-Laikipia,"Cashew Nut",0
-Laikipia,"Khat (Miraa)",0
-Nakuru,Farming,283652
 Nakuru,Tea,10041
-Nakuru,Coffee,0
 Nakuru,Avocado,20209
 Nakuru,Citrus,4332
 Nakuru,Mango,6560
-Nakuru,Coconut,0
-Nakuru,Macadamia,0
-Nakuru,"Cashew Nut",0
-Nakuru,"Khat (Miraa)",0
-Narok,Farming,181706
-Narok,Tea,0
-Narok,Coffee,0
 Narok,Avocado,13430
 Narok,Citrus,1784
 Narok,Mango,2332
-Narok,Coconut,0
-Narok,Macadamia,0
-Narok,"Cashew Nut",0
-Narok,"Khat (Miraa)",0
-Kajiado,Farming,97565
-Kajiado,Tea,0
-Kajiado,Coffee,0
 Kajiado,Avocado,2994
-Kajiado,Citrus,0
 Kajiado,Mango,2776
-Kajiado,Coconut,0
-Kajiado,Macadamia,0
-Kajiado,"Cashew Nut",0
-Kajiado,"Khat (Miraa)",0
-Kericho,Farming,150845
 Kericho,Tea,55837
 Kericho,Coffee,24774
 Kericho,Avocado,40748
 Kericho,Citrus,2283
 Kericho,Mango,5588
-Kericho,Coconut,0
-Kericho,Macadamia,0
-Kericho,"Cashew Nut",0
-Kericho,"Khat (Miraa)",0
-Bomet,Farming,152564
 Bomet,Tea,50704
 Bomet,Coffee,1940
 Bomet,Avocado,44903
 Bomet,Citrus,3298
 Bomet,Mango,3679
-Bomet,Coconut,0
-Bomet,Macadamia,0
-Bomet,"Cashew Nut",0
-Bomet,"Khat (Miraa)",0
-Kakamega,Farming,335269
 Kakamega,Tea,4644
 Kakamega,Coffee,2990
 Kakamega,Avocado,63886
 Kakamega,Citrus,4435
 Kakamega,Mango,49075
-Kakamega,Coconut,0
 Kakamega,Macadamia,2292
-Kakamega,"Cashew Nut",0
-Kakamega,"Khat (Miraa)",0
-Vihiga,Farming,113753
 Vihiga,Tea,11273
 Vihiga,Coffee,1717
 Vihiga,Avocado,34321
 Vihiga,Citrus,1233
 Vihiga,Mango,26209
-Vihiga,Coconut,0
-Vihiga,Macadamia,0
-Vihiga,"Cashew Nut",0
-Vihiga,"Khat (Miraa)",0
-Bungoma,Farming,280445
 Bungoma,Tea,2047
 Bungoma,Coffee,37773
 Bungoma,Avocado,73765
 Bungoma,Citrus,5268
 Bungoma,Mango,54581
-Bungoma,Coconut,0
 Bungoma,Macadamia,2428
-Bungoma,"Cashew Nut",0
-Bungoma,"Khat (Miraa)",0
-Busia,Farming,148257
-Busia,Tea,0
 Busia,Coffee,1498
 Busia,Avocado,27498
 Busia,Citrus,3616
 Busia,Mango,35530
-Busia,Coconut,0
 Busia,Macadamia,1148
-Busia,"Cashew Nut",0
-Busia,"Khat (Miraa)",0
-Siaya,Farming,194362
-Siaya,Tea,0
-Siaya,Coffee,0
 Siaya,Avocado,31729
 Siaya,Citrus,7350
 Siaya,Mango,44660
-Siaya,Coconut,0
 Siaya,Macadamia,1262
-Siaya,"Cashew Nut",0
-Siaya,"Khat (Miraa)",0
-Kisumu,Farming,147117
-Kisumu,Tea,0
-Kisumu,Coffee,0
 Kisumu,Avocado,19478
 Kisumu,Citrus,5265
 Kisumu,Mango,28305
-Kisumu,Coconut,0
-Kisumu,Macadamia,0
-Kisumu,"Cashew Nut",0
-Kisumu,"Khat (Miraa)",0
-"Homa Bay",Farming,193812
 "Homa Bay",Tea,1365
 "Homa Bay",Coffee,2864
 "Homa Bay",Avocado,29880
 "Homa Bay",Citrus,7496
 "Homa Bay",Mango,34557
-"Homa Bay",Coconut,0
 "Homa Bay",Macadamia,1554
-"Homa Bay","Cashew Nut",0
-"Homa Bay","Khat (Miraa)",0
-Migori,Farming,169958
-Migori,Tea,0
 Migori,Coffee,3864
 Migori,Avocado,33338
 Migori,Citrus,4444
 Migori,Mango,27231
-Migori,Coconut,0
 Migori,Macadamia,1196
-Migori,"Cashew Nut",0
-Migori,"Khat (Miraa)",0
-Kisii,Farming,219853
 Kisii,Tea,67394
 Kisii,Coffee,53580
 Kisii,Avocado,88326
 Kisii,Citrus,3850
 Kisii,Mango,17144
-Kisii,Coconut,0
-Kisii,Macadamia,0
-Kisii,"Cashew Nut",0
-Kisii,"Khat (Miraa)",0
-Nyamira,Farming,110028
 Nyamira,Tea,62706
 Nyamira,Coffee,25936
 Nyamira,Avocado,43349
 Nyamira,Citrus,2020
 Nyamira,Mango,3502
-Nyamira,Coconut,0
-Nyamira,Macadamia,0
-Nyamira,"Cashew Nut",0
-Nyamira,"Khat (Miraa)",0
-Nairobi,Farming,32258
-Nairobi,Tea,0
-Nairobi,Coffee,0
-Nairobi,Avocado,0
-Nairobi,Citrus,0
-Nairobi,Mango,0
-Nairobi,Coconut,0
-Nairobi,Macadamia,0
-Nairobi,"Cashew Nut",0
-Nairobi,"Khat (Miraa)",0
