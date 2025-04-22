@@ -6,10 +6,18 @@ This capstone project uses data from Kenya’s 2019 Population and Housing Censu
 
 ## 🔍 Business Problem
 
-Despite ongoing development efforts, service delivery in Kenya remains uneven across counties. This project explores:
-> **How can Kenya use census data to identify underserved regions and prioritize national development projects more effectively?**
+Kenya’s counties exhibit wide disparities in demographic profiles, household infrastructure, and agricultural engagement—factors that directly impact access to services and development outcomes.  
 
-We focus on key indicators like population distribution, housing conditions, and agricultural practices to highlight regions at risk of being left behind.
+> **How can we leverage the 2019 Population & Housing Census—through metrics like gender‑disaggregated population, average household size, farming participation, crop diversity, and primary crop focus—to pinpoint the counties most underserved and guide more effective, data‑driven allocation of national development resources?**
+
+This analysis will surface:
+
+- **Population Distribution**: Gender breakdown and total population per county  
+- **Household Conditions**: Average household size and total households as proxies for infrastructure needs  
+- **Agricultural Participation**: Farming engagement rates and diversity of crops grown  
+- **Primary Crop Focus**: The dominant crop household engagement, highlighting economic specialization  
+
+By integrating these indicators, I can reveal service “hot‑spots” and “cold‑spots,” enabling policymakers to prioritize interventions where they’re needed most.  
 
 ---
 
@@ -17,11 +25,11 @@ We focus on key indicators like population distribution, housing conditions, and
 
 Data was sourced from [TidyTuesday (2021-01-19)](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-19) and curated from the [rKenyaCensus package](https://github.com/Shelmith-Kariuki/rKenyaCensus).
 
-| Dataset | Description |
-|---------|-------------|
-| `gender.csv` | Population by gender, county, and subcounty |
-| `crops.csv` | Types of crops grown by households in different counties |
-| `households.csv` | Household conditions: roofing, cooking fuels, toilets, water access, etc. |
+| Dataset                |Description                                                                    |
+--------------------------------------------------------------------------------|
+| `gender_reshaped.csv`  | County‑level population counts broken down by gender (Male, Female, Intersex)  |
+| `households.csv`       | County‑level household metrics: total population, number of households, and average household size |
+| `crops_reshaped.csv`   | County‑level household participation in specific crops (Tea, Coffee, Avocado, etc.) and overall farming engagement |
 
 ---
 
@@ -84,29 +92,19 @@ All DDL, DML, and view definitions can be found in the `/sql` folder:
 
 ## 📊 Tableau Dashboard
 
-We connected Tableau to MySQL and created interactive visualizations to:
-- Compare population distribution by gender and region
-- Identify high-density areas with poor housing access
-- Highlight counties at risk of food insecurity
 
-🎯 View the final dashboard here: **(Insert Tableau Public Link once ready)**
+🎯 View the final dashboard here: **--**
 
 ---
 
 ## 🚀 Key Insights
 
-- Some high-population counties still lack access to basic infrastructure
-- Gender imbalance in rural counties could affect labor and education planning
-- Certain counties grow a narrow range of crops — a food security red flag
 
 ---
 
 ## 🧭 Next Steps
 
-- Include education and employment indicators from other census volumes
-- Add hospital and school facility data per county
-- Compare historical census trends (e.g. 2009 vs 2019)
-- Propose policy recommendations for high-risk counties
+
 
 ---
 
