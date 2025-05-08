@@ -1,25 +1,26 @@
 # Kenya Census Capstone Project 🇰🇪
 
-This capstone project uses data from Kenya’s 2019 Population and Housing Census to uncover regional inequalities in service delivery. Through structured SQL analysis and visualizations, I aim to identify underserved counties and support smarter, more equitable development decisions in Kenya.
+This capstone leverages Kenya’s 2019 Population & Housing Census to uncover county-level disparities across six critical dimensions—population scale, gender balance, household overcrowding, farming participation, crop diversity, and primary crop focus. Through **SQL-modeled views** and **Tableau dashboards**, we translate raw census data into actionable insights and recommendations.
 
 ---
 
 ## 🔍 Business Problem
 
-Kenya’s counties exhibit wide disparities in demographic profiles, household infrastructure, and agricultural engagement—factors that directly impact access to services and development outcomes.  
+Kenya’s 47 counties display stark contrasts in who lives where, how many people share a home, and how households make a living—differences that directly affect access to water, sanitation, health, education, and economic opportunity.
 
-> **How can we leverage the 2019 Population & Housing Census—through metrics like gender‑disaggregated population, average household size, farming participation, crop diversity, and primary crop focus—to pinpoint the counties most underserved and guide more effective, data‑driven allocation of national development resources?**
+> **Key Question:**  
+> How can we use these six metrics to identify service “hot-spots” and “cold-spots,” then guide data-driven resource allocation for maximum impact and equity?
 
-This analysis will surface:
+I will present and analyze:
+1. **Population Concentration** (Top 10 counties by total and gender-split)  
+2. **Gender Imbalance** (counties with highest female-to-male and male-to-female ratios)  
+3. **Household Overcrowding** (counties with average household size ≥ 5)  
+4. **Farming Engagement** (Top 10 and Bottom 10 counties by % of households farming)  
+5. **Crop Diversity** (counties with the widest vs. narrowest range of crops grown)  
+6. **Primary Crop Specialization** (leading crop by county among the Top 10 farming regions)  
 
-- **Population Distribution**: Gender breakdown and total population per county  
-- **Household Conditions**: Average household size and total households as proxies for infrastructure needs  
-- **Agricultural Participation**: Farming engagement rates and diversity of crops grown  
-- **Primary Crop Focus**: The dominant crop household engagement, highlighting economic specialization  
+Each visualization will highlight key insights—e.g., urban versus rural dynamics in farming, arid-zone overcrowding, and mono-crop vulnerabilities—so that policymakers can prioritize **mass-impact interventions** in densely populated or highly agricultural areas and deploy **precision innovations** (e.g., modular water kiosks, crop-diversification programs, gender-tailored services) in more dispersed or specialized regions.  
 
-By integrating these indicators, I can reveal service “hot‑spots” and “cold‑spots,” enabling policymakers to prioritize interventions where they’re needed most.  
-
----
 
 ## 📁 Datasets Used
 
