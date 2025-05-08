@@ -6,7 +6,7 @@ This capstone leverages Kenya’s 2019 Population & Housing Census to uncover co
 
 ## 🔍 Business Problem
 
-Kenya’s 47 counties display stark contrasts in who lives where, how many people share a home, and how households are farming,the variety of crops being planted .How do we identify which counties need large-scale infrastructure (e.g. high-capacity water/sanitation) versus targeted agricultural interventions (e.g. diversification training, processing hubs)?
+Kenya’s 47 counties display stark contrasts in who lives where, how many people share a home,how many households are farming and the variety of crops being planted .How do we identify which counties need large-scale infrastructure (e.g. high-capacity water/sanitation) versus targeted agricultural interventions (e.g. diversification training, processing hubs)?
 
 > **Key Question:**  
 > How can we use these six metrics to identify service “hot-spots” and “cold-spots,” then guide data-driven resource allocation for maximum impact and equity?
