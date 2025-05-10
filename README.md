@@ -19,7 +19,7 @@ I will present and analyze:
 5. **Crop Diversity** (counties with the widest vs. narrowest range of crops grown)  
 6. **Primary Crop Specialization** (leading crop by county among the Top 10 farming regions)  
 
-Each visualization will highlight key insights—e.g., urban versus rural dynamics in farming, arid-zone overcrowding, and mono-crop vulnerabilities—so that policymakers can prioritize **mass-impact interventions** in densely populated or highly agricultural areas and deploy **precision innovations** (e.g., modular water kiosks, crop-diversification programs, gender-tailored services) in more dispersed or specialized regions.  
+Each visualization will highlight key insights e.g., urban versus rural dynamics in farming, arid-zone overcrowding, and mono-crop vulnerabilities so that policymakers can prioritize **mass-impact interventions** in densely populated or highly agricultural areas and deploy **precision innovations** (e.g., modular water kiosks, crop-diversification programs, gender-tailored services) in more dispersed or specialized regions.  
 
 
 ## 📁 Datasets Used
